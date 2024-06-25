@@ -10,6 +10,9 @@
 ## Challenge Description
 The goal of the AutoEval Challenge is to develop a system capable of detecting handwritten true/false answers from scanned student PDF documents and calculating the corresponding scores automatically. This challenge requires the application of computer vision techniques and machine learning algorithms to accurately interpret handwritten responses and evaluate them.
 
+## Model Name
+https://huggingface.co/OpenGVLab/Mini-InternVL-Chat-4B-V1-5
+
 ## Repository Overview
 This repository contains all the necessary files to reproduce our solution for the AutoEval Challenge. The main components of our solution include:
 
